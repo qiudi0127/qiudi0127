@@ -4,7 +4,6 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/feizc/)](https://github.com/qiudi0127/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiudihk@gmail.com)](mailto:qiudihk@gmail.com)
 
-<br/>
 
 ### 👪 SkyReels Series:
 - [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) : Infinite-Length Film Generative Model [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.13074) <img src="https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social" />
