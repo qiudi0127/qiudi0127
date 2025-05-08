@@ -9,6 +9,10 @@
 
 - [SkyReels-V(Video)1](https://github.com/SkyworkAI/SkyReels-V1) : Human-Centric Video Foundation Model <img src="https://img.shields.io/github/stars/SkyworkAI/SkyReels-V1?style=social" />
 
+
+### 🚀 Quick Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/qiudi0127)](https://git.io/awesome-stats-card)
+
 <!--
 **qiudi0127/qiudi0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
