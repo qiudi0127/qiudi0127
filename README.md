@@ -9,7 +9,7 @@
 
 ### 👪 SkyReels Controllable Video Generation Series:
 
-- SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers.
+- [SkyReels-Audio](https://arxiv.org/pdf/2506.00830) : Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers. [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.00830)  [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://skyworkai.github.io/skyreels-audio.github.io/)
 
 - [SkyReels-A2](https://github.com/SkyworkAI/SkyReels-A2) : Compose Anything in Video Diffusion Transformers.  [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2504.02436)  [![Project](https://img.shields.io/badge/Project_Page-00CED1)](https://skyworkai.github.io/skyreels-a2.github.io/) <img src="https://img.shields.io/github/stars/SkyworkAI/SkyReels-A2?style=social" /> [![Hugging Face](https://img.shields.io/badge/Online-Leaderboard-purple)](https://huggingface.co/spaces/Skywork/SkyReels_A2_Bench)
 
